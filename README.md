@@ -1,34 +1,42 @@
 # Hi, I'm Mustafa Ahmed 👋
-**Full Stack Software Engineer | .NET, React, SQL | FinTech & Banking Applications**
+**Software Engineer | .NET & React | API Development | FinTech & Banking Applications | Experience with ATM Software
 
 I am a passionate software developer with **3.5+ years of experience** building secure, scalable, and user-centric applications for **banking, fintech, and enterprise systems**. My expertise spans **.NET, React, Flutter, SQL Server, REST APIs, microservices, and middleware solutions**.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript, Flutter
-- **Backend:** .NET, REST APIs, Node.js (optional if you used it)
-- **Database:** SQL Server, MySQL
+- **Frontend:** React, HTML, CSS, JavaScript, Flutter, React Native
+- **Backend:** .NET, REST APIs
+- **Database:** SQL Server, MySQL,Oracle , PostgressSQL
 - **Tools:** Git, GitHub, VS Code, Postman
-- **Other:** Middleware Integration, ISO 8583 / NDC Enterprise (ATM), NFC Technology
+- **Other:** Middleware Integration, NDC Enterprise (ATM), NFC Technology
 
 ---
 
 ## 💼 Projects (Highlights)
-- **Digital Onboarding App – International Development Bank**  
-  Account-opening system integrated with **core banking and NFC ID technology**, built with **.NET, SQL Server, and Flutter**.  
+- **Messarat Educational Platform - For IoTKIDS**
+  
+- **CMS system for IoTKIDS**  
+ 
+- **Registration System For Employee Information With NFC Technology - Android Version**  
+ 
+- **Digital Onboarding Application using NFC**  
 
-- **Cardless ATM Integration – Digital Wall**  
-  Developed **mobile banking APIs** and middleware for **QR & OTP cardless transactions**, integrated with **NDC Enterprise ATM software**.  
+- **Match Winner Web App – Next Level Group**
 
-- **Archive Accounts & Lottery API Services – International Development Bank**  
-  Designed **REST APIs** to enable **secure banking operations and data retrieval**.  
+- **Trainer of Full Stack Development Course by Makers Of Baghdad**
 
-- **Match Winner Web App – Next Level Group**  
-  Full-stack application with **React frontend, REST API backend**, and interactive UI with **Framer Motion**.  
+- **SMS API Services for Iraq Branches and Dubai Branch**
+
+- **Archive Accounts API Services with Bank Archive System for International Development Bank**
+  
+- **Digital Banking System for Digital Wall**
+
+- **Digital Wallet System for Digital wall**
 
 ---
 
 ## 📫 Connect with me
-- [LinkedIn](your-linkedin-url)
-- [Email](mailto:your-email)
+- [LinkedIn](https://www.linkedin.com/in/mustfa-ahmed-a1902021a/)
+- [Email](mailto:mustfa.a.salman2000@gmail.com)
