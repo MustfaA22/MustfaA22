@@ -215,11 +215,11 @@ Full learning platform + CMS for IoTKIDS. Responsive, fast, and built for young 
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=MustfaA22&show_icons=true&theme=transparent&title_color=C8A96E&icon_color=C8A96E&text_color=E8E4DC&border_color=C8A96E&border_radius=4&hide_border=false" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustfa-ahmed&layout=compact&theme=transparent&title_color=C8A96E&text_color=E8E4DC&border_color=C8A96E&border_radius=4&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustfaA22&layout=compact&theme=transparent&title_color=C8A96E&text_color=E8E4DC&border_color=C8A96E&border_radius=4&hide_border=false" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustfa-ahmed&theme=transparent&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&border=C8A96E&dates=888780&sideNums=E8E4DC&currStreakNum=E8E4DC&stroke=C8A96E00" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustfaA22&theme=transparent&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&border=C8A96E&dates=888780&sideNums=E8E4DC&currStreakNum=E8E4DC&stroke=C8A96E00" />
 
 </div>
 
@@ -230,19 +230,19 @@ Full learning platform + CMS for IoTKIDS. Responsive, fast, and built for young 
 ## ` ⬡ ` &nbsp; WHAT I'M ABOUT &nbsp; ` ⬡ `
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   "Banking software isn't just software.                │
-│    It's the infrastructure people use                   │
-│    to feed their families, run businesses,              │
-│    and build their futures.                             │
-│                                                         │
-│    I take that seriously."                              │
-│                                                         │
-│                              — Mustfa Ahmed             │
-│                                 Baghdad, 2025           │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+                                          ┌─────────────────────────────────────────────────────────┐
+                                          │                                                         │
+                                          │   "Software Solutions isn't just software.                │
+                                          │    It's the infrastructure people use                   │
+                                          │    to feed their families, run businesses,              │
+                                          │    and build their futures.                             │
+                                          │                                                         │
+                                          │    I take that seriously."                              │
+                                          │                                                         │
+                                          │                              — Mustfa Ahmed             │
+                                          │                                 Baghdad, 2025           │
+                                          │                                                         │
+                                          └─────────────────────────────────────────────────────────┘
 ```
 
 <br/>
