@@ -44,7 +44,7 @@ languages:   Arabic (Native) · English (Professional)
 status:      Currently @ Digital Wall — Building the next gen of banking 🚀
 ```
 
-> *"I don't just write code — I architect digital financial infrastructure that people trust with their money."*
+> *"I don't just write code — I architect digital infrastructure that people trust with their money."*
 
 ---
 
